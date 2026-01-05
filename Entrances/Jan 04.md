@@ -1,8 +1,8 @@
 ## Landmark
 
-A large **Vartha Tree** has been split open by age or disaster, and shards of it's crystal fruit lay scattered in the soil at it's base.
+A large **Vartha Tree** has been split open by age or disaster, and shards of its crystal fruit lay scattered in the soil.
 
-The tree seems to have split open atop a hole that deceneds down deep into the earth. From within you can spell the telltale dank musty air of *The Below*
+The tree seems to have split open atop a hole that descends down deep into the earth. From within you can spell the telltale dank musty air of *The Below*
 
 ## Hidden
 
@@ -11,4 +11,4 @@ The tree seems to have split open atop a hole that deceneds down deep into the e
 
 ## Secret
 
-In the soil are a number of **Vartha** seeds, crystaline gems that will when planted and teneded too grow into trees of their own.
+In the soil are a number of **Vartha** seeds, crystalline gems that will when planted and tended to grow into trees of their own.
