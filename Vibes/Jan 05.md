@@ -1,16 +1,16 @@
 ## The Old Passageways
 
-The series of tunnels, forgotten rooms, sunken cellors and other structures that sit below **The City's** basements, sewers and streets. Often accsesable from basements and sewers the locations are well mapped and more often then not blocked or gaurded.
+The series of tunnels, forgotten rooms, sunken cellars and other structures that sit below **The City's** basements, sewers, and streets. Often accessible from basements and sewers the locations are well mapped and more often than not blocked or guarded.
 
 ### Sights & Structures
 
-Twisting passages of old masonry and crummbling stone. Dusty rooms filled with forgoten futniture. Damp winecellers sunken into the volcanic ash.
+Twisting passages of old masonry and crumbling stone. Dusty rooms filled with forgotten furniture. Damp wine cellars sunken into the volcanic ash.
 
 ### Sounds
 
-The twisting nature of the **Old Passageways** blocks or distorts most sounds, the groan of old stone and far off thuds and distoreted noises. 
+The twisting nature of the **Old Passageways** blocks or distorts most sounds, the groan of old stone and far off thuds and distorted noises. 
 
-### Smell and taste
+### Smell and Taste
 
 Damp, dust, rot punctuated by the sharp salty bitterness of niter.
 
@@ -18,6 +18,6 @@ Damp, dust, rot punctuated by the sharp salty bitterness of niter.
 
 Only what you bring with you.
 
-### Common monsters
+### Common Monsters
 
 Skeletons, trash and rot, forgotten things. Those who wish to hide, cultists and the like.
