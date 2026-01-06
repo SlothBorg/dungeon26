@@ -2,10 +2,14 @@
 
 ### Sights & Structures
 
+
 ### Sounds
 
-### Smell and taste
+
+### Smell and Taste
+
 
 ### Lighting
 
-### Common monsters
+
+### Common Monsters
