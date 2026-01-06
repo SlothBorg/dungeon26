@@ -20,4 +20,4 @@ Only what you bring with you.
 
 ### Common Monsters
 
-Skeletons, trash and rot, forgotten things. Those who wish to hide, cultists and the like.
+Skeletons, beings of trash and rot, those who wish to hide, cultists, and the like.
