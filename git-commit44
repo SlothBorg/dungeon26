@@ -1,7 +1,0 @@
-#!/bin/bash
-
-day=$(date +%-j)
-
-echo "Commit message: Day $day"
-
-git add --all && git commit -m 'Day $day' && git push
