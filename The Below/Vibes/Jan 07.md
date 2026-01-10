@@ -1,5 +1,7 @@
 ## Endless Sea of Last Twilight
 
+A vast underground sea, filled with remnants of the night sky and entities from the far realms. Part dream, part nightmare, don't let the soothing sound of the waves lull you to sleep.
+
 ### Sights & Structures
 
 Black calm water, in the depths echos of stars cast a dim light akin to twilight. Sharp rocks jut from the sea, around which rickety towns have been built on stilts or from ship wrecks. Ships prowl the waves hunting, the mightest of these are clad in metal and said to be living beings born of **The Cataclysm**.
