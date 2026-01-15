@@ -1,6 +1,6 @@
 ## The Library
 
-The lair of a powerful lich obsessed with knowledge and secrets, largely harmless less it's beloved library is disturbed.
+The lair of a powerful lich obsessed with knowledge and secrets, largely harmless less it's beloved library is disturbed. The whole library is secretly a panopticon for he lich. 
 
 ### Sights & Structures
 
@@ -14,11 +14,9 @@ Any sound above a whisper is met with shushes from unseen librarians.
 
 Dust and old books. 
 
-
 ### Lighting
 
 Fire is strictly forbidden, it's sight calls to the ancient guardians of the place. 
-
 
 ### Common Monsters
 
