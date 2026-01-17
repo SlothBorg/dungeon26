@@ -8,4 +8,4 @@ The words are categories and the letters and numbers are a catalog system for th
 
 ## Secret
 
-The Lich's name Serbastoz Gromlay is the key to navigating the maze.
+The Lich's name Serbastoz is the key to navigating the maze.

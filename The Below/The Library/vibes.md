@@ -1,6 +1,6 @@
 ## The Library
 
-The lair of a powerful lich, Serbastoz Gromlay, obsessed with knowledge and secrets, largely harmless less it's beloved library is disturbed. The whole library is secretly a panopticon for he lich. 
+The lair of a powerful lich, Serbastoz, obsessed with knowledge and secrets, largely harmless less it's beloved library is disturbed. The whole library is secretly a panopticon for he lich. 
 
 ### Sights & Structures
 
