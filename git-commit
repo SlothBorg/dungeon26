@@ -4,4 +4,4 @@ day=$(date +%-j)
 
 echo -e "\nCommit message: Day $day\n"
 
-git add --all && git commit -m 'Day $day' && git push
+git add --all && git commit -m "Day $day" && git push
