@@ -8,6 +8,8 @@ The Room is long with a lowered central part dominated by a large low hearth fla
 
 ## Hidden
 
-
+The proprietor of the place a Changeling named Lehtinen, who maintains the form of an elf. In several of the backrooms he runs gambling and a small brothel. A small sect of changelings work as sex workers and priestess of a deity of lust, love and sex. While they are able to help make any fantasy come true, it always comes at a price, especially for those who will not worship with them.
 
 ## Secret
+
+Lehtinen keeps his status as a Changeling a secret, not even the other changelings who work for him know.
