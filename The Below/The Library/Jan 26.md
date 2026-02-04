@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 Above the doorway, carved in plain letters, a sign ominously reads skeletons. 
 

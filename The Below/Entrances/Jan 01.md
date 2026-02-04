@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The chamber is *dank* with a low ceiling, and moss cling clings to the *flagstone*.
 

@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 A long hall stretches before you, the walls pitted and chipped, the floor stained with filth and what looks like blood.
 

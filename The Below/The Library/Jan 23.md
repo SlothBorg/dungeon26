@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 Another dusty, dimly lit, room full of bookshelves and scattered notes. A strange scent hangs in the air but otherwise nothing of note.
 

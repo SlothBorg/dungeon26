@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 A large **Vartha Tree** has been split open by age or disaster, and shards of its crystal fruit lay scattered in the soil.
 

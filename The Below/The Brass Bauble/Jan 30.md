@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 Down a series of rusting iron rungs hammered into a stone shaft is a small muck filled cistern. In the center a large stone covered in filth and muck, protruding from the top is a strangely clean sword. 
 

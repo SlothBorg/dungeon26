@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The bookshelves in this alcove are free of dust, spider webs but oddly look bristle as if they might collapse into dust.
 

@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 A pack of kobolds bickers loudly around a small fire, the smell of charred and burnt meat is in the air. 
 

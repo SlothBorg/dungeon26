@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The door opens on to a large room of flagstone, on the far side a troll hunches over a stew pot singing in to itself, the air is heavy with the sent of onions cooking in fat.
 

@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 A narrow path extends 40 or 50ft between overflowing bookshelves. Paths branch off from this path before it turns to the left far ahead in the dim light. At the end of each bookshelf is a metal plaque with a word or short phrase written on it, below are a few letters and numbers. 
 

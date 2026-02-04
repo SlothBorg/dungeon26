@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The small door opens onto a large room, lanterns hang from the ceiling shedding a bright even light. A dozen tables are spread around a large circular bookshelf full of scrolls and codices.
 

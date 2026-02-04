@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The simple wooden door has a parchment sign tacked to the door with a dagger reads "Meeting in progress, do not disturb." 
 

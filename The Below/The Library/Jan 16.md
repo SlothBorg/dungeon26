@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The corridor depends a flight of stairs onto a open circular room dominated by a large round desk. Piled high with stacks of books.
 

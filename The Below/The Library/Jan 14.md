@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The hexagonal room is paneled id dark wood and gold trim. Innumerable windows cover the walls, each looks out onto a different part of the library. yes, yess
 

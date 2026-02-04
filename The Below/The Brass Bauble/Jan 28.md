@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 ### Storage room
 

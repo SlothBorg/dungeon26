@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 A set of steep steps, each made of a rough-hewn timber mortared into the wall, leads down into gloom. 
 

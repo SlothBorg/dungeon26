@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The flagstone hall ahead is dimly lit by glowing fungus hanging from the ceiling. Many of the flagstones are cracked or missing, exposing a dark void below. A foul acrid stench rises up from the floor.
 

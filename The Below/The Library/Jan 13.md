@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The door swings open to a large amphitheater, you stand at the top on one side of the crescent shaped room. The walls are lined with bookshelves and the seats empty. On the raised dais at the bottom of the amphitheater a group of orcs sits around a small fire they seem to be cutting up a large tree and feeding it into the flames.
 

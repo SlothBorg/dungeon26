@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 The wall between two bookshelves is cracked and a damp cool breeze issues forth. Looking at it, it's clear that a bookshelf had been in the empty space but rotted away over countless years.
 

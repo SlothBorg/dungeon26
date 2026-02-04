@@ -1,4 +1,4 @@
-## Landmark
+## Public
 
 A bronze door, symbols etched into its surface barley visible under a layer of dust and oxidation, opens into the damp room. Walls of rough-hewn stone, no books in sight an odd contrast to this place. The room is sunken with circular steps descending on all sides. The floor is 5 steps lower than where you are now. 
 
