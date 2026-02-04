@@ -1,6 +1,6 @@
 # The Sprawl
 
-The portion of **The City** that spills up and over the caldera edge running down into the open fields that boarder **The Wilds**
+The portion of **The City** that spills up and over the crater edge running down into the open fields that boarder **The Wilds**
 
 ### Sights & Structures
 

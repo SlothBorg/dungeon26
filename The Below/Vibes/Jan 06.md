@@ -1,6 +1,6 @@
 ## Grand Catacombs
 
-Long ago the volcanic rock of the caldera were quarried to build the fist buildings of **The City**. Now these winding tunnels, narrow shafts, and vaulted caverns have been repurposed to hold the dead. A vertical walled shaft leads straight from **The City** to **The Grand Lichyard** a misleading name for the open pit in which the cities dead are throw to feaster and rot.
+Long ago the volcanic rock of the crater were quarried to build the fist buildings of **The City**. Now these winding tunnels, narrow shafts, and vaulted caverns have been repurposed to hold the dead. A vertical walled shaft leads straight from **The City** to **The Grand Lichyard** a misleading name for the open pit in which the cities dead are throw to feaster and rot.
 
 A multitude of small passage wind their way from churches down into the catacombs.
 
