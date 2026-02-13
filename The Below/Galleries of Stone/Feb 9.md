@@ -9,6 +9,6 @@ After a moment, it squeaks out "wanna buy something?!" before ducking behind the
 
 The Kobold has a stash of potions it's willing to trade for valuable items.
 It particularly prizes traps and weapons.
-There are a number of magic items it is unaware of among it's goods.
+There are a number of magic items it is unaware of among its goods.
 
 ## Secret
