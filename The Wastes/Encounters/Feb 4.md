@@ -14,4 +14,4 @@ The key to its freedom lies in a wizards tower a days journey
 
 ## Secret
 
-The Ifrit is good natured twoards it's rescuers taking on almost a paternal guardianship ... one that will more often than not cause trouble.
+The Ifrit is good natured towards it's rescuers taking on almost a paternal guardianship ... one that will more often than not cause trouble.
