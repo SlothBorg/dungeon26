@@ -1,5 +1,7 @@
 # Dungeon 26
 
+This work is released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
 This is a collection of rooms, encounters, and such for a MegaDungeon. One per day, each with a theme:
 
 * **Entrances**
@@ -34,12 +36,15 @@ This final place has many names.
 
 ---
 
-<details>
-<summary>The City</summary>
+
+## The City
 
 LANDMARK DESCRIPTION
 
-### LOCATION DETAILS
+### The City
+### The City
+### The City
+### The City
 
 #### Notables
 
@@ -50,58 +55,3 @@ NAME, DESCRIPTION, TAGS
 * **Wealth** 
 
 SPECIAL NOTES
-</details>
-
-<details>
-<summary>The Below</summary>
-
-LANDMARK DESCRIPTION
-
-### LOCATION DETAILS
-
-#### Notables
-
-NAME, DESCRIPTION, TAGS
-
-### LOCATION TRAITS
-
-* **Wealth** 
-* 
-SPECIAL NOTES
-</details>
-
-<details>
-<summary>The Wild</summary>
-
-LANDMARK DESCRIPTION
-
-### LOCATION DETAILS
-
-#### Notables
-
-NAME, DESCRIPTION, TAGS
-
-### LOCATION TRAITS
-
-* **Wealth** 
-
-SPECIAL NOTES
-</details>
-
-<details>
-<summary>The Waste</summary>
-
-LANDMARK DESCRIPTION
-
-### LOCATION DETAILS
-
-#### Notables
-
-NAME, DESCRIPTION, TAGS
-
-### LOCATION TRAITS
-
-* **Wealth** 
-
-SPECIAL NOTES
-</details>
