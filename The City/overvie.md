@@ -22,3 +22,8 @@ NAME, DESCRIPTION, TAGS
 * **Demonic Presence** 
 
 SPECIAL NOTES
+
+## Resources:
+
+* Cityscape
+* City Works
