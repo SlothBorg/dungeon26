@@ -1,0 +1,3 @@
+Rings & Jewelry
+Greed
+
