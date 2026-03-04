@@ -19,20 +19,19 @@ The goal is to stop worrying about a perfect template, system, etc and just writ
 
 ---
 
-After eons uncounted, the Blood War ended.
-The victors' malice was unleashed upon the Prime Material.
+After uncountable eons, the Blood War has ended.
+The victors' malice unleashed upon the Prime Material.
 The apocalypse echoed through the planes.
-  Worlds burned.
-  Gods fell.
+  Worlds burned,
+  Gods fell,
   The Great Wheel shattered.
 
-Upon a dead god cast adrift in the Astral Sea
-prophets who foresaw the doom, and ragged survivors
-a refuge built from shattered remains of planes
+Upon a dead god cast adrift in the vastness of the Astral Sea
+A small fortress was transformed by prophets who foresaw the doom, wise and mad wizards, and the ragged survivors into
 
 Bastion, The Unbroken Gate, Journey's End, Final Haven, Last Plane, Remnant, Refuge, God's Reprieve, Dead Head's Rest
 
-This final place has many names.
+The last refuge has many names, but all know it as The City. 
 
 ---
 
